@@ -1,4 +1,4 @@
-name: Build neo2
+name: Build neo2 lean
 
 on: 
   repository_dispatch:
